@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Lash Blueprint
 ---
-## The index page
+## The Lash Blueprint category index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Welcome to your ultimate guide for master lash artistry, business strategy and client care! This knowledge base provides step-by-step tips and safety rules to help you achieve great retention and grow a successful beauty business! 
 
 ## Editing pages
 
