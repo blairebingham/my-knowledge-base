@@ -5,11 +5,15 @@ title: The Lash Blueprint
 
 Welcome to your ultimate guide for master lash artistry, business strategy and client care! This knowledge base provides step-by-step tips and safety rules to help you achieve great retention and grow a successful beauty business! 
 
-## Editing pages
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+- [[eyelash-anatomy-and-health/index| Eyelash Anatomy & Health]]
+- [[products-and-tools/index| Products & Tools]]
+- [[application-techniques/index| Application Techniques]]
+- [[safety-and-sanitation/index| Safety & Sanitation]]
+- [[client-consultation-and-care/index| Client Consultation & Care]]
+- [[business-and-marketing/index| Business & Marketing]]
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
 
 ### Obsidian (free)
 
