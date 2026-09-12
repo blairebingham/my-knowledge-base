@@ -11,8 +11,7 @@ Tweezers are the primary physical tools of a lash professional. Because an artis
 
 An extension service requires two distinct tool profiles acting in tandem. The isolation hand typically utilizes a straight or slightly curved tweezer to separate a single natural lash away from its neighbors. The dominant hand utilizes an angled, boot, or L-shaped tweezer to grip, manipulate, and place extensions seamlessly. 
 
-![[Pasted image 20260912004828.png|307]]
-
+![[tweezers.jpg]]
 
 ## Finding the Sweet Spot
 
