@@ -12,7 +12,7 @@ Modern eyelash extensions are manufactured from premium synthetic polybutylene t
 Extensions are categorized by three main attributes: curl type, thickness (diameter), and length. Common curls range from natural J and B curls to dramatic C, CC, D, and L curls. Diameters vary drastically depending on the intended application method: 
 * **Classic Applications:** 0.12 mm, 0.15 mm, or 0.18 mm diameters
 * **Volume Applications:** 0.03 mm, 0.05 mm, or 0.07 mm diameters
-! [ Diagram illustrating the different profile variations of classic versus volume synthetic lash extension fibers] (https://unsplash.com)
+ [ Diagram illustrating the different profile variations of classic versus volume synthetic lash extension fibers] (https://unsplash.com)
 
 ## Selecting The Right Fiber
 
