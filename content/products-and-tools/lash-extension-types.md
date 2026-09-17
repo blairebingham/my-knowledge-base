@@ -15,3 +15,9 @@ Extensions are categorized by three main attributes: curl type, thickness (diame
 ## Selecting the Right Fiber
 
 Choosing the correct diameter ensures the natural lash is never overloaded. Overweight extensions cause premature shedding and permanent follicular damage. Understanding your materials allows you to adapt your application style, matching your fiber weight directly with chemical requirements detailed in [[adhesive-chemistry|adhesive chemistry properties]]. 
+
+## Visual Profile of Material Application
+
+Below is a close-up visual representation of a custom volume lash set application, showcasing dense, symmetrical multi-fiber fans applied safely to individual natural lashes to build dramatic depth and volume. 
+
+![[lash-extension.jpg]]
