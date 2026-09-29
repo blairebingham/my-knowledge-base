@@ -1,46 +1,25 @@
 ---
-title: The Lash Blueprint
+title: The Lash Blueprint - Home
+date: 2026-09-28
 ---
-## The Lash Blueprint category index page
+## The Lash Blueprint
 
 Welcome to your ultimate guide for master lash artistry, business strategy and client care! This knowledge base provides step-by-step tips and safety rules to help you achieve great retention and grow a successful beauty business! 
 
-## Main Categories
+---
+## Main Categories & Curriculum Map 
 
-- [[eyelash-anatomy-and-health/index| Eyelash Anatomy & Health]]
-- [[products-and-tools/index| Products & Tools]]
-- [[application-techniques/index| Application Techniques]]
-- [[safety-and-sanitation/index| Safety & Sanitation]]
-- [[client-consultation-and-care/index| Client Consultation & Care]]
-- [[business-and-marketing/index| Business & Marketing]]
-
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
+* **[[01-eyelash-anatomy-and-health/index|01. Eyelash Anatomy & Health]]** — Biological parameters, follicle growth cycles, ocular health standards, and contraindications. 
+* **[[02-products-and-tools/index|02. Products & Tools]]** — Cosmetic chemistry of cyanoacrylate adhesives, environmental tracking, tweezer metrics, and extension fibers. 
+* **[[03-application-techniques/index|03. Application Techniques]]** — Isolation mechanical protocols, classic placement, handmade volume fans, and structural lash mapping. 
+* **[[04-safety-and-sanitization/index|04. Safety & Sanitization]]** — Decontamination cycles, salon disinfection chemical ratios, and occupational exposure mitigation. 
+* **[[05-client-consultation-and-care/index|05. Client Consultation & Care]]** — Eye-shape profile analysis, custom styling set designs, patch testing, and long-term aftercare education. 
+* **[[06-business-and-marketing/index|06. Business & Marketing]]** — Brand positioning, pricing matrices, booking integrations, and digital portfolio growth.
 
 ---
-## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+### Administrative Pages 
+
+* [[about|About the Project]] 
+* [[references|Scientific & Regulatory References]]
 
