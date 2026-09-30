@@ -20,6 +20,6 @@ Welcome to your ultimate guide for master lash artistry, business strategy and c
 
 ### Administrative Pages 
 
-* [[about|About the Project]] 
+* [[About|About the Project]] 
 * [[references|Scientific & Regulatory References]]
 
