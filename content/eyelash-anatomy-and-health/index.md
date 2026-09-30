@@ -15,5 +15,5 @@ Welcome to the Eyelash Anatomy & Health learning module. This section provides a
 
 ## Related Categories 
 
-Understanding biological constraints directly informs your choice of weight and curls in [[02-products-and-tools/index|Products & Tools]] and shapes how you conduct an eye-shape analysis during [[05-client-consultation-and-care/index|Client Consultation & Care]].
+Understanding biological constraints directly informs your choice of weight and curls in [[products-and-tools/index|Products & Tools]] and shapes how you conduct an eye-shape analysis during [[client-consultation-and-care/index|Client Consultation & Care]].
 

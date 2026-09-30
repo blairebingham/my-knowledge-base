@@ -19,5 +19,5 @@ Achieving clean isolation requires steady fine-motor control and an optimized ph
 
 ## Tool Synchronization 
 
-Pristine mechanical control is only possible when your hand movements are completely synchronized with the specialized tip profiles highlighted in our guide to [[02-products-and-tools/tweezer-ergonomics|tweezer ergonomics]]. Once a hair is flawlessly separated, your dominant hand must immediately step in to execute proper extension placement before the natural hair twitches.
+Pristine mechanical control is only possible when your hand movements are completely synchronized with the specialized tip profiles highlighted in our guide to [[products-and-tools/tweezer-ergonomics|tweezer ergonomics]]. Once a hair is flawlessly separated, your dominant hand must immediately step in to execute proper extension placement before the natural hair twitches.
 

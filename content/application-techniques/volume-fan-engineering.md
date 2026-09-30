@@ -17,4 +17,4 @@ Creating symmetrical handmade fans requires hours of muscle memory development. 
 
 ## Micro-Base Mechanics and Weight Limits 
 
-The base of a volume fan must be tightly wrapped and completely seamless. A boxy, split, or thick base will cause immediate irritation and poor retention. Technicians must strictly balance their fan sizes according to the hair thickness guidelines outlined in [[02-products-and-tools/lash-extension-types|lash extension fiber types]], ensuring a 5D fan uses ultra-light 0.03mm or 0.05mm diameters to preserve natural hair health.
+The base of a volume fan must be tightly wrapped and completely seamless. A boxy, split, or thick base will cause immediate irritation and poor retention. Technicians must strictly balance their fan sizes according to the hair thickness guidelines outlined in [[products-and-tools/lash-extension-types|lash extension fiber types]], ensuring a 5D fan uses ultra-light 0.03mm or 0.05mm diameters to preserve natural hair health.

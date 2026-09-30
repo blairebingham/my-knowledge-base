@@ -23,4 +23,4 @@ The telogen phase is the final resting state where the hair sits completely dorm
 
 ## Structural Implications for Lash Artists 
 
-Understanding these phases allows a technician to evaluate natural lash health during a baseline [[05-client-consultation-and-care/index|client consultation profile]]. Recognizing baby Anagen lashes ensures you avoid overloading them with heavy extensions, directly protecting the client from long-term follicle damage. 
+Understanding these phases allows a technician to evaluate natural lash health during a baseline [[client-consultation-and-care/index|client consultation profile]]. Recognizing baby Anagen lashes ensures you avoid overloading them with heavy extensions, directly protecting the client from long-term follicle damage. 

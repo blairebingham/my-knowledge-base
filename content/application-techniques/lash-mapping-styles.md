@@ -14,4 +14,4 @@ Lash mapping is the blueprinting process where an artist draws a customized exte
 
 ## Integrating Styling and Consultation 
 
-A successful map cannot be chosen at random. The layout must be tailored to the client's structural features during a baseline [[05-client-consultation-and-care/index|client consultation profile]]. By drawing sections cleanly on the eye pad, you can safely navigate around baby hairs identified during your check of the [[eyelash-anatomy-and-health/lash-growth-cycles|natural eyelash growth cycles]]. 
+A successful map cannot be chosen at random. The layout must be tailored to the client's structural features during a baseline [[client-consultation-and-care/index|client consultation profile]]. By drawing sections cleanly on the eye pad, you can safely navigate around baby hairs identified during your check of the [[eyelash-anatomy-and-health/lash-growth-cycles|natural eyelash growth cycles]]. 
