@@ -17,4 +17,4 @@ Technicians must maintain strict universal precautions to guard against highly r
 
 ## Executing an Exposure Incident Protocol 
 
-If a sharp tweezer tip accidentally punctures a client or the artist's skin, stop the service immediately. Wash the area thoroughly with soap and water, apply an antiseptic, seal the wound with a waterproof bandage, and completely isolate all contaminated tools. These contaminated tools must be taken out of service immediately until they can undergo the full multi-step cleaning loop detailed in [[safety-and-sanitization/decontamination-cycles|the three levels of decontamination]]. 
+If a sharp tweezer tip accidentally punctures a client or the artist's skin, stop the service immediately. Wash the area thoroughly with soap and water, apply an antiseptic, seal the wound with a waterproof bandage, and completely isolate all contaminated tools. These contaminated tools must be taken out of service immediately until they can undergo the full multi-step cleaning loop detailed in [[safety-and-sanitization/decontamination-cycles|the three levels of decontamination]].

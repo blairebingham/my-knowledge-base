@@ -1,10 +1,10 @@
 ---
-title: Safety & Sanitation
+title: Safety & Sanitization
 date: 2026-09-29
 ---
-# Safety & Sanitation
+# Safety & Sanitization
 
-Welcome to the Safety & Sanitation module. This section provides the foundational chemical safety formulas, bloodborne pathogen safety standards, and multi-tier decontamination cycles required to host a professional, legal, and infection-free lash studio environment. 
+Welcome to the Safety & Sanitization module. This section provides the foundational chemical safety formulas, bloodborne pathogen safety standards, and multi-tier decontamination cycles required to host a professional, legal, and infection-free lash studio environment. 
 
 ## Core Study Modules 
 
